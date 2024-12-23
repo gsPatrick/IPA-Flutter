@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "115727363245",
+    "firebase_url": "https://appalugvenda-default-rtdb.firebaseio.com",
+    "project_id": "appalugvenda",
+    "storage_bucket": "appalugvenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115727363245:android:80c2622a8f0ce4e130aa24",
+        "android_client_info": {
+          "package_name": "com.vendly.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3-2WA2vZ4qHStu9j6gnWapDrkhfWkE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
